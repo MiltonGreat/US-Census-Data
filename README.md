@@ -19,10 +19,10 @@ This dataset is taken from the DP03 and DP05 tables of the 2015 American Communi
 
 #### 4. Key Findings
       
-- Income: The average income is around $57,225 with a wide range (min: $2,611, max: $248,750).
-- The standard deviation is high ($28,449), indicating that incomes vary significantly between areas.
-- Poverty: The average poverty rate is 16.96%, with a wide spread from 0% to 100%. This shows there are areas with extreme poverty conditions, which could be visible as clusters of high poverty rates in the scatterplot.
-- Unemployment: The average unemployment rate is 9.03%, with a large range from 0% to 100%. 
+- Average Income: $57,009.07
+- Average Poverty Rate: 16.87%
+- Average Unemployment Rate: 8.97%
+- The correlation between Poverty and Unemployment is positive (0.64), indicating that areas with higher poverty rates also tend to have higher unemployment rates.
 
 #### 5.  Source
 
